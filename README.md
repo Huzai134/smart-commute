@@ -10,7 +10,7 @@ Standard carpooling is fundamentally flawed: if a driver travels 15km, but a pas
 
 | Smart Dashboard | Live Route Radar | Route Overview Map |
 | :---: | :---: | :---: |
-| <img src="screenshots/dashboard.png" width="250"> | <img src="screenshots/radar.png" width="250"> | <img src="screenshots/map.png" width="250"> |
+| <img src="screenshots/homepage.png" width="250"> | <img src="screenshots/live_commute_radar.png" width="250"> | <img src="screenshots/route_overview.png" width="250"> |
 
 ---
 
