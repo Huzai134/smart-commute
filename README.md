@@ -2,7 +2,7 @@
 
 **Smart Commute** is a full-stack, GPS-tracked ride-sharing platform designed specifically for university students and employees. 
 
-Standard carpooling is fundamentally flawed: if a driver travels 15km, but a passenger only rides along for 4km, the passenger usually ends up splitting the cost of the *entire* trip. I built Smart Commute to solve this. Using real-time phone GPS hardware and dynamic backend mathematics, this app acts like a live taxi meter—ensuring passengers only ever pay for the exact distance they travel, while keeping the platform secure using AI-driven ID verification.
+Standard carpooling is fundamentally flawed: if a driver travels 15km, but a passenger only rides along for 4km, the passenger usually ends up splitting the cost of the *entire* trip. I built Smart Commute to solve this. Using real-time phone GPS hardware and dynamic backend mathematics, this app acts like a live taxi meter, ensuring passengers only ever pay for the exact distance they travel, while keeping the platform secure using AI-driven ID verification.
 
 ---
 
