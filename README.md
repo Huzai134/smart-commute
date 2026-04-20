@@ -6,6 +6,14 @@ Standard carpooling is fundamentally flawed: if a driver travels 15km, but a pas
 
 ---
 
+## 📸 App Screenshots
+
+| Smart Dashboard | Live Route Radar | Route Overview Map |
+| :---: | :---: | :---: |
+| <img src="screenshots/dashboard.png" width="250"> | <img src="screenshots/radar.png" width="250"> | <img src="screenshots/map.png" width="250"> |
+
+---
+
 ## 🧠 The Logic: How It Actually Works
 
 This app isn't just a basic CRUD application; it relies on mathematical routing, live hardware tracking, and AI to function.
@@ -62,11 +70,3 @@ python -m venv .venv
 pip install fastapi uvicorn google-generativeai python-dotenv pydantic pillow python-multipart websockets
 # Run the server
 uvicorn main:app --reload
-
-## 👨‍💻 Developed By
-
-**Muhammad Huzaifa Farooqui** * **GitHub:** [@Huzai134](https://github.com/Huzai134)
-* **Email:** numl-f23-58547@numls.edu.pk
-* **Institution:** National University of Modern Languages (NUML)
-
-*Built as an MVP to demonstrate Full-Stack engineering, AI integration, and live hardware routing.*
