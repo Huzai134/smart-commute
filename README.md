@@ -62,3 +62,11 @@ python -m venv .venv
 pip install fastapi uvicorn google-generativeai python-dotenv pydantic pillow python-multipart websockets
 # Run the server
 uvicorn main:app --reload
+
+## 👨‍💻 Developed By
+
+**Muhammad Huzaifa Farooqui** * **GitHub:** [@Huzai134](https://github.com/Huzai134)
+* **Email:** numl-f23-58547@numls.edu.pk
+* **Institution:** National University of Modern Languages (NUML)
+
+*Built as an MVP to demonstrate Full-Stack engineering, AI integration, and live hardware routing.*
